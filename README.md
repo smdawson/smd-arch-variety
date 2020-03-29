@@ -1,2 +1,1 @@
-# smd-template
-Template for repositories
+# smd-arch-variety
